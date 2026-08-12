@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, sou o Pedro 👋
 
-<!--
-**santana-pedro/santana-pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor estagiário na TecnoTRENDS, trabalhando com C#, .NET, .NET MAUI e DevExpress. Estudante de Análise e Desenvolvimento de Sistemas no IFBA (5º semestre, conclusão prevista para 2027).
 
-Here are some ideas to get you started:
+- 💻 No trabalho: C#, .NET, .NET MAUI, DevExpress, SQL Server, Azure, WCF
+- 🎓 Na faculdade e em projetos pessoais: Java, Spring Boot, React
+- 🔭 Projeto atual: [mark](https://github.com/santana-pedro/mark) — sistema de agendamento de serviços
+- 📫 Contato: pedrossantana060@gmail.com · [LinkedIn](https://www.linkedin.com/in/pedro-santana-b6b016354/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos em destaque
+
+**[mark](https://github.com/santana-pedro/mark)** — Sistema de agendamento de serviços em Blazor/.NET (MVP concluído)
+
+**[locadora-veiculos](https://github.com/santana-pedro/locadora-veiculos)** — Sistema de locação de veículos com arquitetura de microsserviços (Spring Boot + React)
