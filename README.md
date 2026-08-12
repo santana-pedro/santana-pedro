@@ -8,6 +8,4 @@ Desenvolvedor estagiário na TecnoTRENDS, trabalhando com C#, .NET, .NET MAUI e 
 
 ### Projetos em destaque
 
-**[mark](https://github.com/santana-pedro/mark)** — Sistema de agendamento de serviços em Blazor/.NET (MVP concluído)
-
 **[locadora-veiculos](https://github.com/santana-pedro/locadora-veiculos)** — Sistema de locação de veículos com arquitetura de microsserviços (Spring Boot + React)
