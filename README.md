@@ -4,7 +4,6 @@ Desenvolvedor estagiário na TecnoTRENDS, trabalhando com C#, .NET, .NET MAUI e 
 
 - 💻 No trabalho: C#, .NET, .NET MAUI, DevExpress, SQL Server, Azure, WCF
 - 🎓 Na faculdade e em projetos pessoais: Java, Spring Boot, React
-- 🔭 Projeto atual: [mark](https://github.com/santana-pedro/mark) — sistema de agendamento de serviços
 - 📫 Contato: pedrossantana060@gmail.com · [LinkedIn](https://www.linkedin.com/in/pedro-santana-b6b016354/)
 
 ### Projetos em destaque
